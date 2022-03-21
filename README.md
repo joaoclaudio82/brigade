@@ -16,6 +16,6 @@ No mesmo diretório do brgade.ipynb, inserimos os dados de cada um dos anos usan
 Inserimos os 8 csvs no mesmo diretório e demos início a nossa análise exploratória de dados.
 
 
-Vale ressaltar que ao longo do arquivo brgade.ipynb, temos toda a descrição de cada passo dado em nosso análise.
+Vale ressaltar que ao longo do arquivo licitacaoRS.ipynb, temos toda a descrição de cada passo dado em nossa análise.
 
 joaoclaudio82@gmail.com
